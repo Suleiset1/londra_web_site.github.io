@@ -1,0 +1,43 @@
+h1 {
+    color: mediumvioletred;
+    font-family:Calibri;
+}
+h2{
+    color: purple;
+}
+h3{
+    color:mediumpurple;
+}
+h4{
+    color:purple;
+}
+body {
+    font-family: 'Times New Roman';
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 1px;
+}
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: ghostwhite;
+    padding: 0 20px 20px 20px;
+    border: 0px solid black;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+}
+a{
+    color:darkblue;
+}
